@@ -1,10 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,Canal 24 horas
+#EXTINF:-1 ,Teletica
 
- 
-https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-0.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-3.m3u8
 
 #EXTINF:-1 ,Antena 3 internacional
 https://directo.atresmedia.com/81048a5e9cd1a5115f4bab2838831a8ce00c84f8_1635751942/a3internacional/bitrate_4.m3u8
