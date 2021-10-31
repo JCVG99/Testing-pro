@@ -31,19 +31,6 @@ https://directo.atresmedia.com/abee860119918a94d20d53ca799c654db7acd22d_16357426
 
 https://directo.atresmedia.com/091dc77d4c442ed231af911d1376f8c7221a7aa8_1635743578/lasexta/bitrate_4.m3u8
 
+#EXTINF:-1 ,FOX LATINO
 
-#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="• CINE",CINE - STAR FUN
-http://ac.ntvlatino.com:8080/moises/moises2021/4032
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - STAR HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1920px-Star_Hits_2020.svg.png" group-title="• CINE",CINE - STAR HITS
-http://ac.ntvlatino.com:8080/moises/moises2021/3266
-#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - STAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1920px-Star_Hits_2020.svg.png" group-title="• CINE",CINE - STAR SERIES
-http://ac.ntvlatino.com:8080/moises/moises2021/3262
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX" tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" group-title="• CINE",CINE - FX
-http://ac.ntvlatino.com:8080/moises/moises2021/3201
-
-
-
-
-
-
-
+http://ac.ntvlatino.com:8080/moises/moises2021/4032.M3U8
