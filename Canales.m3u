@@ -34,10 +34,9 @@ https://directo.atresmedia.com/091dc77d4c442ed231af911d1376f8c7221a7aa8_16357435
 
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:-1 ,Repretel Pluto TV
+#EXTINF:-1 ,Peliculas
 
 
 
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/2142297/playlist.m3u8
-
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/1280x720_2855600/index.m3u8
 
